@@ -1,0 +1,4 @@
+pages\ToggleAllCheckboxPage.class
+pages\AddSingleItemPage.class
+util\BrowserFactory.class
+pages\RemoveSingleItemPage.class
